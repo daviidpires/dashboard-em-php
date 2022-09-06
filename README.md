@@ -16,3 +16,6 @@ um arquivo na raiz do projeto com o nome db.php seguindo o seguinte:
  $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
  $conn->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
 
+e no banco de dados seguir o exemplo da imagem do diagrama.
+
+![imagem diagrama](https://github.com/daviidpires/dashboard-em-php/blob/8a2462db5a69f9fc4962553816aaf2c434eca91d/diagrama.png)
